@@ -1,0 +1,12 @@
+[submodule "cherry_pick"]
+	path = cherry_pick
+	url = ./cherry_pick
+[submodule "merge"]
+	path = merge
+	url = ./cherry_pick
+[submodule "merge_conflict"]
+	path = merge_conflict
+	url = ./merge_conflict
+[submodule "rebase"]
+	path = rebase
+	url = ./rebase
